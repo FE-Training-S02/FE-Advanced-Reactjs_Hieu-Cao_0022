@@ -1,4 +1,4 @@
-export interface IBlog {
+export interface BlogOptions {
   id: number,
   topic: string,
   title: string,
@@ -6,4 +6,4 @@ export interface IBlog {
   author: string,
   createAt: string,
   timeRead: number,
-}
+};
