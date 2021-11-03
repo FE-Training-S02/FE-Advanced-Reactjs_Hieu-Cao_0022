@@ -1,7 +1,7 @@
 import React from 'react';
 
 import BlogItem from './partials/BlogItem';
-import listBlogs from '../list-blogs.json';
+import listBlogs from '../shared/data-json/list-blogs.json';
 import { BlogOptions } from '../shared/types/blog';
 
 const Blogs = () => {

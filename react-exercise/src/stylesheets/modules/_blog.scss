@@ -3,9 +3,9 @@
   .blog-link {
     display: flex;
     .blog-image {
-      width: 200px;
-      height: 200px;
-      border-radius: 20px;
+      width: 12rem;
+      height: 12rem;
+      border-radius: 1.2rem;
     }
     .blog-content {
       padding-left: 2rem;
@@ -20,7 +20,7 @@
         margin-bottom: 1rem;
       }
       .blog-text {
-        font-size: 18px;
+        font-size: 1.2rem;
         margin-bottom: 1rem;
       }
       .blog-info {
