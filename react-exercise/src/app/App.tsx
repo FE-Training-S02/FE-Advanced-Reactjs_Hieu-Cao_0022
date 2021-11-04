@@ -1,8 +1,8 @@
 import React from 'react';
 
-import '../stylesheets/styles.scss';
 import Blogs from './blogs/Blogs';
-import Header from './shared/components/header/Header';
+import Header from './shared/components/Header';
+import '../stylesheets/styles.scss';
 
 function App() {
   return (
